@@ -1,3 +1,4 @@
-# 18s-cs492-assign1-data
+# 18s-cs492-assign1-data #
 
-* 2018년 봄 CS492C 딥러닝 수업 Assignment1에서 제공된 데이터를 실제 눈으로 확인할 수 있게 파일들을 generating하는 repository입니다.
+* 2018 Spring KAIST CS492C Introduction to Deep Learning Assignment1. 
+* This repository is for generating image from given npy file.
